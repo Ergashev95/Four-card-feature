@@ -27,3 +27,11 @@ ul {
     list-style: none;
 }
 
+
+.container{
+    max-width: 1174px;
+    width: 100%;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin: auto;
+}
