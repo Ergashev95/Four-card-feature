@@ -1,1 +1,29 @@
 @import url(./fonts.css);
+
+/* DESIGN SYSTEM */
+
+:root {
+    --red: #EA5454;
+    --aqua: #44D3D2;
+    --orange: #FCAE4A;
+    --blue: #549EF2;
+    --grey: #4D4F62;
+    --poppins: "Poppins";
+}
+
+/* GLOBAL STYLE */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
